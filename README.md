@@ -283,4 +283,4 @@ This project is intended for educational and academic purposes. Add an appropria
 
 ---
 
-⭐ If you find this project useful, consider starring the repository on GitHub.
+⭐ If you find this project useful, consider starring the repository on GitHub.# loan-approval-prediction
