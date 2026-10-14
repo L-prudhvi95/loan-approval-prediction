@@ -274,6 +274,7 @@ Through this project, we explored:
 **Name:** Your Name
 
 **GitHub:** [Your GitHub Profile](https://github.com/L-prudhvi95)
+
 **Live**[Live](https://loan-approval-prediction-edu.streamlit.app/)
 
 **Project:** Loan Approval Prediction Using Machine Learning
